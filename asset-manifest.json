@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/falcons-den/static/css/main.e88a9823.css",
-    "main.js": "/falcons-den/static/js/main.2856cc7b.js",
+    "main.js": "/falcons-den/static/js/main.f88430aa.js",
     "static/js/488.8e745ab9.chunk.js": "/falcons-den/static/js/488.8e745ab9.chunk.js",
     "static/media/imperialhal.jpg": "/falcons-den/static/media/imperialhal.8b74d2150bdbd0e797d9.jpg",
     "static/media/rocketleague.webp": "/falcons-den/static/media/rocketleague.5d6d654d1ea0ddec923e.webp",
@@ -17,11 +17,11 @@
     "static/media/csgo.webp": "/falcons-den/static/media/csgo.06d27790dae476a4a588.webp",
     "index.html": "/falcons-den/index.html",
     "main.e88a9823.css.map": "/falcons-den/static/css/main.e88a9823.css.map",
-    "main.2856cc7b.js.map": "/falcons-den/static/js/main.2856cc7b.js.map",
+    "main.f88430aa.js.map": "/falcons-den/static/js/main.f88430aa.js.map",
     "488.8e745ab9.chunk.js.map": "/falcons-den/static/js/488.8e745ab9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e88a9823.css",
-    "static/js/main.2856cc7b.js"
+    "static/js/main.f88430aa.js"
   ]
 }
