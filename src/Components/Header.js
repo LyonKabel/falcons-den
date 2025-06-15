@@ -38,8 +38,11 @@ const Header = () => {
           {location.pathname !== '/home' && (
             <a href="#schedule" className="nav-button">Schedule</a>
           )}
-          <a href="#schedule" className="nav-button">Schedule</a>
-          <a href="#contact" className="nav-button">Contact</a>
+          
+          {location.pathname === '/home' && (
+            <a href="#contact" className="nav-button">Contact</a>
+          )}
+          
           {location.pathname !== '/home' &&  (
             <button onClick={handleGoToStandings} className="nav-button">
               View Standings

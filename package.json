@@ -1,8 +1,8 @@
 {
   "name": "falcons-den",
   "version": "0.1.0",
-  "homepage": "https://AlliHamid-FS.github.io/wdv349-o-AlliHamid-FS",
   "private": true,
+  "homepage": "https://LyonKabel.github.io/falcons-den",
   "dependencies": {
     "axios": "^1.9.0",
     "bootstrap": "^5.3.3",
@@ -29,7 +29,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build -r https://github.com/AlliHamid-FS/wdv349-o-AlliHamid-FS.git"
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [

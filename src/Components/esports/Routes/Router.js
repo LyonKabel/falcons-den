@@ -14,6 +14,7 @@ import PlayerProfile from '../../esports/apex/PlayerProfileApex.js';
 function Routing() {
   return (
     <Routes>
+      <Route path="/" element={<HomePage />} />
       <Route path="/home" element={<HomePage />} />
       <Route path="/esports/apexlegends" element={<ApexLegends />} />
       <Route path="/esports/overwatch" element={<Overwatch />} />
