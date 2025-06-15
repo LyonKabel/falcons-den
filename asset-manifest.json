@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/falcons-den/static/css/main.e88a9823.css",
+    "main.js": "/falcons-den/static/js/main.2856cc7b.js",
+    "static/js/488.8e745ab9.chunk.js": "/falcons-den/static/js/488.8e745ab9.chunk.js",
+    "static/media/imperialhal.jpg": "/falcons-den/static/media/imperialhal.8b74d2150bdbd0e797d9.jpg",
+    "static/media/rocketleague.webp": "/falcons-den/static/media/rocketleague.5d6d654d1ea0ddec923e.webp",
+    "static/media/niko.jpg": "/falcons-den/static/media/niko.18c5a30f368d8ba3c4f6.jpg",
+    "static/media/draugur.jpg": "/falcons-den/static/media/draugur.5df5d96eaebaefe13f96.jpg",
+    "static/media/waltzy.jpg": "/falcons-den/static/media/waltzy.5703f01e1650283be382.jpg",
+    "static/media/zer0.jpg": "/falcons-den/static/media/zer0.b84fbdd1ea92db213dfa.jpg",
+    "static/media/FalconsLogo.webp": "/falcons-den/static/media/FalconsLogo.23946f4cdc0da5d8d8c3.webp",
+    "static/media/teses.webp": "/falcons-den/static/media/teses.f54f3218977335faa41e.webp",
+    "static/media/magisk.webp": "/falcons-den/static/media/magisk.b1aea20127bf7b22fef2.webp",
+    "static/media/apexlegends.webp": "/falcons-den/static/media/apexlegends.67d3fc7e46a15e723189.webp",
+    "static/media/valorant.webp": "/falcons-den/static/media/valorant.b0b33f2a6cb423047508.webp",
+    "static/media/csgo.webp": "/falcons-den/static/media/csgo.06d27790dae476a4a588.webp",
+    "index.html": "/falcons-den/index.html",
+    "main.e88a9823.css.map": "/falcons-den/static/css/main.e88a9823.css.map",
+    "main.2856cc7b.js.map": "/falcons-den/static/js/main.2856cc7b.js.map",
+    "488.8e745ab9.chunk.js.map": "/falcons-den/static/js/488.8e745ab9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e88a9823.css",
+    "static/js/main.2856cc7b.js"
+  ]
+}
